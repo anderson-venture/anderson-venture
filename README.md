@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Lin</h1>
+<h1 align="center">Hi 👋, I'm Junjie Chen</h1>
 <h3 align="center">Full-Stack Engineer • PHP & Laravel on the back end, TypeScript & Node everywhere else</h3>
 
 <p align="center">
